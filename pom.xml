@@ -112,6 +112,10 @@
 			<id>dynmap-repo</id>
 			<url>http://repo.mikeprimm.com/</url>
 		</repository>
+		    <repository>
+    			<id>pex-repo</id>
+    			<url>http://pex-repo.zachsthings.com</url>
+		</repository>
 	</repositories>
 	<dependencies>
 		<dependency>
